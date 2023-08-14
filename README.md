@@ -1,4 +1,4 @@
-[![Jason Lengstorf has a lot of ideas.](https://www.canva.com/design/DAFrhEo7Veg/view)](https://www.jason.energy)
+[![Jason Lengstorf has a lot of ideas.](https://www.canva.com/design/DAFrhEo7Veg/view)]
 
 
 <h1 align="center">Hi 👋, I'm hafeed</h1>

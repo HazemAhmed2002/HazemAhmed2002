@@ -1,4 +1,4 @@
-<img width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vuYdj6goareXKiIqjH5dow.png">
+<img width="600" align="center" height="800" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vuYdj6goareXKiIqjH5dow.png">
 
 
 

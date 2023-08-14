@@ -7,6 +7,8 @@
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFrhEo7Veg&#x2F;view?utm_content=DAFrhEo7Veg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Flutter Developer</a> by Hazem Ahmed
 
+
+
 <h1 align="center">Hi 👋, I'm hafeed</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Hafeedpkl/model_sample/blob/master/assets/gif/coding_image.gif?raw=true">

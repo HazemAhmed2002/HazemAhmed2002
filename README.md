@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafeedpkl&label=Profile%20views&color=0e75b6&style=flat" alt="hafeedpkl" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hafeedpkl" target="blank"><img src="https://img.shields.io/twitter/follow/hafeedpkl?logo=twitter&style=for-the-badge" alt="hafeedpkl" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hazem_lubbad" target="blank"><img src="https://img.shields.io/twitter/follow/hazem?logo=twitter&style=for-the-badge" alt="hazem" /></a> </p>
 
 - 🔭 I’m currently working on **flutter projects**
 
@@ -16,9 +16,9 @@
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
-- 💬 Ask me about **dart, flutter**
+- 💬 Ask me about **swift, iOS**
 
-- 📫 How to reach me **hafeedpallikkal@gmail.com**
+- 📫 How to reach me **ahmedhazeml734@gmail.com**
 
 - ⚡ Fun fact **I am Funny 😎**
 

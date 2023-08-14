@@ -43,4 +43,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafeedpkl&show_icons=true&locale=en" alt="hafeedpkl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafeedpkl&" alt="hafeedpkl" /></p>
+<p><img align="center" src="https://github.com/HazemAhmed2002&" alt="hzem" /></p>

@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **flutter projects**
 
-- 🌱 I’m currently learning **swift,iOS**
+- 🌱 I’m currently learning **swift, iOS**
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
@@ -23,7 +23,7 @@
 - ⚡ Fun fact **I am Funny 😎**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
 <a href="https://twitter.com/hazem_lubbad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hzem" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammed-hafeed-p-a3870b204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed hafeed p" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20608607/hafeedpkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hafeedpkl" height="30" width="40" /></a>
@@ -34,6 +34,14 @@
 <a href="https://www.leetcode.com/hafeedpkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hafeedpkl" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@hafeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@hafeed" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hafeedpallikkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hafeedpallikkal" height="30" width="40" /></a>
+</p> -->
+
+<p align="left">
+<a href="https://twitter.com/hazem_lubbad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hazem Ahmed" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%AD%D9%85%D9%91%D9%8A%D8%AF-6b6926215/?locale=en_US" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Eng.Hazem.2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/salah.alden.33" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hzm.lubbad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/baraa.abul?igshid=nta5ztk1ntc=" height="30" width="40" /></a>
+<a href="https://discord.gg/432189565248339969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9311" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

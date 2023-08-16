@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I am Funny 😎**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 <p align="left">
 <a href="https://twitter.com/hazem_lubbad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hazem Ahmed" height="30" width="40" /></a>
@@ -37,6 +37,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HazemAhmed2002&show_icons=true&locale=en&layout=compact" alt="Hazem Ahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HazemAhmed2002&show_icons=true&locale=en" alt="Hazem Ahmed" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=HazemAhmed2002&show_icons=true&locale=en" alt="Hazem Ahmed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HazemAhmed2002&" alt="Hazem Ahmed" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HazemAhmed2002&" alt="Hazem Ahmed" /></p>
+<!--
+center
+-->

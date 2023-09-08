@@ -2,7 +2,7 @@
 ![Flutter Developer](https://github.com/HazemAhmed2002/HazemAhmed2002/assets/94257829/88994637-f39d-4083-8769-bd1387238068)
 
 <h1 align="center">Hi 👋, I'm hazem</h1>
-<h3 align="center">iOS Developer & Flutter Develeper</h3>
+<h3 align="center">Mobile Applications Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Hafeedpkl/model_sample/blob/master/assets/gif/coding_image.gif?raw=true">
 
 

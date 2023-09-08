@@ -44,10 +44,10 @@
 ## Connect with me:
 <p align="center">
 	<a target="_blank" href="mailto:ahmedhazeml@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width='50px' alt="Gmail"/></a>
-	<a target="_blank" href=""><img src="https://skills.thijs.gg/icons?i=linkedin" alt="LinkedIn"/></a>
-	<a target="_blank" href="mailto:hazem.ahmed2002@icloud.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Apple.png" width='50px' alt="Whatsapp"/></a>
+	<a target="_blank" href="https://www.linkedin.com/in/hazem-lubbad-70618b23b/"><img src="https://skills.thijs.gg/icons?i=linkedin" alt="LinkedIn"/></a>
+	<a target="_blank" href="mailto:hazem.ahmed2002@icloud.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Apple.png" width='50px' alt="Apple"/></a>
 	<a target="_blank" href="https://wa.me/+970593035939"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" width='50px' alt="Whatsapp"/></a>
-	<a target="_blank" href="https://t.me/Hazem_Lubbad"><img src=" https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" alt="LinkedIn"/></a>
+	<a target="_blank" href="https://t.me/Hazem_Lubbad"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" width='50px' alt="Telegram"/></a>
 </div>
 
 <br>

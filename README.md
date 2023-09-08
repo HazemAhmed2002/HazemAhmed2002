@@ -12,15 +12,12 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **swift, iOS**
-
 - 👯 I’m looking to collaborate on **flutter projects**
 
 - 💬 Ask me about **dart, flutter**
 
 - 📫 How to reach me **ahmedhazeml734@gmail.com**
 
-- ⚡ Fun fact **I am Funny 😎**
 
 ## Activity & Statistics:
  ### Streak Stats:

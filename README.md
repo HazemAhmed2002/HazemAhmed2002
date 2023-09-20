@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **ahmedhazeml734@gmail.com**
 
-
 ## Activity & Statistics:
  ### Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HazemAhmed2002&theme=react)

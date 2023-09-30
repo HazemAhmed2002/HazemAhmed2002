@@ -23,9 +23,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HazemAhmed2002&theme=react)
 
 ### Activity
-<!--
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anawajha&show_icons=true&theme=react)
--->
+
 ![Asad's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HazemAhmed2002&show_icons=true&theme=react&include_all_commits=true&count_private=true)
 
 
